@@ -179,6 +179,8 @@ Top-Rated Locations:
 - The average cost for two is 1267 rupees.
 - The average rating is 4.06.
 - Online ordering accounts for 57% of orders.
+
+
 **When table booking is not available:**
 - The average cost for two is 463 rupees.
 - The average rating is 3.00.
