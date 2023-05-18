@@ -1,6 +1,11 @@
 
 # Bengaluru-Restaurant-Performance-Analysis
 
+<p align="center">
+  <img src="https://github.com/rajuchigicherla/Bengaluru-Restaurant-Performance-Analysis/assets/118670053/eae9d1fd-e41f-464a-b8d0-e20e3078b675" >
+</p>
+
+
 **Wait!**
 
 Before we go deep into the project I would like to say my sincere gratitude towards the **Hicounselor** team. They provided the ingredients required for this project also created random teams with the registered members.
@@ -14,8 +19,9 @@ Let's introduce my beloved teammates
 
 Yeah! now we'll deep dive into the project
 
-**Please hang on till the end you'll have a great time reading it.**
 
+
+**Please hang on till the end you'll have a great time reading it.**
 
 ## Context
 
