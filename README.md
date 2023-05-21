@@ -146,7 +146,7 @@ The overall average rating for restaurants in Bengaluru stands at a modest 3.15,
 
 #### Popular Restaurant Types:
 
-- Quickbites and casual dining establishments hold the crown as the most popular restaurant types in Bengaluru, with approximately 58% of restaurants offering either quick bites or casual dining experiences, or both.
+- Quick bites and casual dining establishments hold the crown as the most popular restaurant types in Bengaluru, with approximately 58% of restaurants offering either quick bites or casual dining experiences, or both.
 
 - Burger King emerges as the leading restaurant for quick bites, while Empire Restaurant takes the spotlight for casual dining.
 
@@ -256,5 +256,16 @@ Restaurants that accept online orders are more popular in all aspects, as mentio
 
 By implementing these recommendations, Zomato can enhance its platform, attract more customers, and facilitate the growth of the restaurant industry in Bengaluru.
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
 
 
